@@ -1,0 +1,15 @@
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+sqlalchemy[asyncio]==2.0.52
+asyncpg==0.31.0
+alembic==1.20.0
+pydantic-settings==2.15.0
+httpx==0.28.1
+itsdangerous==2.2.0
+python-multipart==0.0.32
+pypdf==6.18.1
+python-docx==1.2.0
+pgvector==0.5.0
+langgraph==1.2.11
+tzdata==2026.4  # time zone data for zoneinfo on Windows, where the local tests run
+mcp==2.2.0
